@@ -1,10 +1,6 @@
 # shoe-mart
-This is a web based application developed for health related telugu based website in india
-
-### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
-
-
-**Project Link** - http://teluguhealth.southindia.cloudapp.azure.com/
+makes people susceptible to parasitic worms and other foot infections. These diseases can be debilitating or even lethal. Going barefoot puts humans at risk for hookworm, tick bites and injuries.
+### This web based life style application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 ## Features and Functionalities 😃
