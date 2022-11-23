@@ -18,14 +18,18 @@ This is a web based application developed for health related telugu based websit
 
 ## Screenshots
 
- 📸!
+ 📸!"C:\Users\Dhanu\Videos\Captures\Films & TV 23-11-2022 14_52_09.png"
+ "C:\Users\Dhanu\Videos\Captures\Films & TV 23-11-2022 14_54_00.png"
+ "C:\Users\Dhanu\Videos\Captures\Films & TV 23-11-2022 14_54_00.png"
+ "C:\Users\Dhanu\Videos\Captures\Bootie Ecommerce Bootstrap Responsive Web Template _ Blog - Google Chrome 23-11-2022 15_03_12.png"
 
 
 
    
 
 ### About Us -
-
+In our Bootie website we are offering slippers,shoes,snickers etc.in very low expensive.
+we are offering free shipping and free return
 
 
 
